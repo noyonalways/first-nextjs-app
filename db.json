@@ -1,0 +1,74 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Air Max 90",
+      "description": "Classic running shoe with a retro design and cushioned sole for comfort.",
+      "price": 150,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 2,
+      "title": "Adidas Ultraboost",
+      "description": "Lightweight running shoe with responsive cushioning and superior energy return.",
+      "price": 200,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 3,
+      "title": "Puma RS-X",
+      "description": "Bold design sneaker with a chunky silhouette and durable materials for a streetwear look.",
+      "price": 110,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Zoom Pegasus",
+      "description": "Performance-oriented running shoe with responsive cushioning for daily runs.",
+      "price": 130,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 5,
+      "title": "New Balance 574",
+      "description": "Iconic sneaker featuring a mix of suede and mesh materials with an EVA foam midsole.",
+      "price": 100,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 6,
+      "title": "Asics Gel-Kayano 28",
+      "description": "Stability running shoe offering advanced support and GEL technology for shock absorption.",
+      "price": 160,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 7,
+      "title": "Converse Chuck Taylor All Star",
+      "description": "Classic canvas sneaker known for its timeless style and versatile wear.",
+      "price": 60,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 8,
+      "title": "Vans Old Skool",
+      "description": "Skate shoe with a low profile, suede and canvas upper, and signature side stripe.",
+      "price": 70,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 9,
+      "title": "Reebok Club C 85",
+      "description": "Retro-inspired sneaker with a minimalist design and soft leather upper.",
+      "price": 85,
+      "image": "https://placehold.co/600x400.png"
+    },
+    {
+      "id": 10,
+      "title": "Under Armour HOVR Phantom",
+      "description": "High-performance training shoe with HOVR cushioning for ultimate energy return.",
+      "price": 140,
+      "image": "https://placehold.co/600x400.png"
+    }
+  ]
+}
